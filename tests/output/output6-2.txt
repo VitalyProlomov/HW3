@@ -1,0 +1,7 @@
+The container after deleting elements contains 6 shapes:
+0. REAL NUMBER:  8/-9, Real representation = -0.8888888888888888
+1. REAL NUMBER:  95/47, Real representation = 2.021276595744681
+2. REAL NUMBER:  5/5, Real representation = 1.0
+3. REAL NUMBER:  4/7, Real representation = 0.5714285714285714
+4. POLAR COORDINATES. Length: 9, radians: 9. Real representation = 9
+5. COMPLEX NUMBER. Real part: 3, Imaginary part: 8, Perimeter = 8.54400374531753

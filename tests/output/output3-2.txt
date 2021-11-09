@@ -1,0 +1,4 @@
+The container after sorting elements:
+1. POLAR COORDINATES. Length: 10, radians: 23. Real representation = 10
+2. POLAR COORDINATES. Length: 3, radians: 0. Real representation = 3
+3. POLAR COORDINATES. Length: 56, radians: 76. Real representation = 56

@@ -1,0 +1,7 @@
+The container after sorting elements:
+1. COMPLEX NUMBER. Real part: 3, Imaginary part: 4, Perimeter = 5.0
+2. COMPLEX NUMBER. Real part: 0, Imaginary part: 2, Perimeter = 2.0
+3. COMPLEX NUMBER. Real part: -4, Imaginary part: 3, Perimeter = 5.0
+4. COMPLEX NUMBER. Real part: 0, Imaginary part: 8, Perimeter = 8.0
+5. COMPLEX NUMBER. Real part: 4, Imaginary part: 5, Perimeter = 6.4031242374328485
+6. COMPLEX NUMBER. Real part: 5, Imaginary part: -6, Perimeter = 7.810249675906654

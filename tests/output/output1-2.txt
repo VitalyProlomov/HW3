@@ -1,0 +1,4 @@
+The container after sorting elements:
+1. REAL NUMBER:  3/4, Real representation = 0.75
+2. COMPLEX NUMBER. Real part: 1, Imaginary part: 5, Perimeter = 5.0990195135927845
+3. POLAR COORDINATES. Length: 6, radians: -10. Real representation = 6

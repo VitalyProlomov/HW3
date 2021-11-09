@@ -1,0 +1,7 @@
+The container after sorting elements:
+1. REAL NUMBER:  5/-5, Real representation = -1.0
+2. REAL NUMBER:  9/-2, Real representation = -4.5
+3. REAL NUMBER:  10/10, Real representation = 1.0
+4. REAL NUMBER:  3/4, Real representation = 0.75
+5. REAL NUMBER:  5/6, Real representation = 0.8333333333333334
+6. REAL NUMBER:  12/-70, Real representation = -0.17142857142857143
